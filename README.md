@@ -35,6 +35,6 @@ Here's an example of the process:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/voronoi_stippling.git
+   git clone https://github.com/Yuvrajsrsingh/Voronoi-Stippling-Project.git
    cd voronoi_stippling
    ```
