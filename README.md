@@ -18,9 +18,9 @@ The image undergoes the following steps:
 
 Here's an example of the process:
 
-| ![Combined Image](images/final_output.png.png) |
-| :--------------------------------------------: |
-|             Original and Stippled              |
+| ![final_otuput](images/final_output.png) |
+| :--------------------------------------: |
+|          Original and Stippled           |
 
 ## **Features**
 
