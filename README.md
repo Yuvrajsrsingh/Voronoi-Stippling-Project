@@ -18,9 +18,9 @@ The image undergoes the following steps:
 
 Here's an example of the process:
 
-| ![Image 1](images/bhia.png) | ![Image 2](stippled_image.png) |
-| :-------------------------: | :----------------------------: |
-|       Original Image        |         Stippled Image         |
+| ![Image 1](images/final_output.png) |
+| :---------------------------------: | :------------: |
+|           Original Image            | Stippled Image |
 
 ## **Features**
 
